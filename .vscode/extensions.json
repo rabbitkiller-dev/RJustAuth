@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "vadimcn.vscode-lldb",
+        "serayuzgur.crates",
+        "usernamehw.errorlens",
+        "gruntfuggly.todo-tree",
+        "rust-lang.rust-analyzer",
+        "github.copilot-chat",
+        "isudox.vscode-jetbrains-keybindings"
+    ]
+}
